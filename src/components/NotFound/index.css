@@ -1,0 +1,18 @@
+.not-found-page {
+  width: 900px;
+  height: 100vh;
+  margin: auto;
+  padding: 30px 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: roboto;
+  color: gray;
+}
+.not-found-img {
+  width: 50%;
+}
+.page-not-found-h1{
+  color: #183b56;
+}

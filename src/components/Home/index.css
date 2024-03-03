@@ -1,0 +1,21 @@
+.home-page {
+  width: 900px;
+  height: 100vh;
+  margin: auto;
+  padding: 30px 50px;
+  background-color: #152850;
+}
+.content {
+  width: 70%;
+  color: #ffffff;
+  margin: auto;
+  margin-top: 100px;
+  text-align: center;
+}
+h1 {
+  color: #ffffff;
+  font-family: roboto;
+}
+.card-img {
+  width: 100%;
+}

@@ -1,0 +1,18 @@
+.header-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  width: 100px;
+}
+.logout-btn {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #ffffff;
+  background-color: transparent;
+  color: #ffffff;
+  padding: 5px 10px;
+  width: 90px;
+}
